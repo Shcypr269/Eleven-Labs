@@ -1,0 +1,73 @@
+# CallPilot - India-First Voice AI (FastAPI Backend)
+# Production-grade with Exotel, Deepgram Hinglish STT, and TRAI compliance
+
+# Core dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-dotenv==1.0.0
+
+# HTTP client
+requests==2.31.0
+httpx==0.26.0
+aiohttp==3.9.1
+
+# LangChain for AI Agent
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-openai==0.0.2
+
+# Redis for distributed locking
+redis==5.0.1
+
+# WebSocket support
+websockets==12.0
+
+# OpenCV for Vision Layer
+opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+
+# OCR - Python Tesseract
+pytesseract==0.3.10
+Pillow==10.2.0
+
+# Image processing
+numpy==1.26.3
+scikit-image==0.22.0
+
+# Database (optional - for production)
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.25
+pgvector==0.2.4
+
+# Async support
+asyncio==3.4.3
+
+# Utilities
+python-multipart==0.0.6
+pyyaml==6.0.1
+geopy==2.4.1
+
+# Monitoring & logging
+python-json-logger==2.0.7
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.23.3
+pytest-cov==4.1.0
+
+# Optional: Streamlit UI
+streamlit==1.29.0
+
+# Optional: Google APIs
+googlemaps==4.10.0
+google-api-python-client==2.111.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+
+# Optional: JWT Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Optional: Rate limiting
+slowapi==0.1.9
