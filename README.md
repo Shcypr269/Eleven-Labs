@@ -394,36 +394,6 @@ REDIS_URL=redis://localhost:6379
 
 ---
 
-## 📚 Documentation
-
-- [Architecture Details](ARCHITECTURE.md)
-- [Setup Guide](SETUP.md)
-- [API Documentation](http://localhost:8000/docs)
-
----
-
-## 🤝 Contributing
-
-1. Fork the repo
-2. Create feature branch
-3. Commit changes
-4. Push and create PR
-
----
-
-## 📄 License
-
-MIT License - See [LICENSE](LICENSE) file.
-
----
-
-## 🙏 Acknowledgments
-
-- **Exotel** - India telephony platform
-- **Deepgram** - Hinglish STT
-- **Gnani.ai** - Indian language TTS
-- **TRAI** - Telecom regulatory compliance
-
 ---
 
 **Built with ❤️ for India 🇮🇳**  
