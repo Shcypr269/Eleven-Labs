@@ -1,7 +1,3 @@
-"""
-CallPilot - Agentic Swarm Architecture (FastAPI Backend)
-Production-grade voice AI appointment scheduler with distributed swarm calling
-"""
 import os
 import asyncio
 import uuid
